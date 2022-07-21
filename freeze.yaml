@@ -1,0 +1,5 @@
+release:
+- branch: master
+  src-openeuler:
+  - wanghao75
+  frozen: false
